@@ -1,28 +1,28 @@
-# [Start Bootstrap - 3 Col Portfolio](https://startbootstrap.com/template-overviews/3-col-portfolio/)
+# [Start Bootstrap - The Big Picture](https://startbootstrap.com/template-overviews/the-big-picture/)
 
-[3 Col Portfolio](https://startbootstrap.com/template-overviews/3-col-portfolio/) is a three column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
 
 ## Preview
 
-[![3 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/3-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-3-col-portfolio/)
+[![The Big Picture Preview](https://startbootstrap.com/assets/img/templates/the-big-picture.jpg)](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-3-col-portfolio/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-3-col-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-3-col-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-3-col-portfolio)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-3-col-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-3-col-portfolio)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-3-col-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-3-col-portfolio)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-3-col-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-3-col-portfolio?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-the-big-picture/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-the-big-picture.svg)](https://www.npmjs.com/package/startbootstrap-the-big-picture)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/3-col-portfolio/)
-* Install via npm: `npm i startbootstrap-3-col-portfolio`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/the-big-picture/)
+* Install via npm: `npm i startbootstrap-the-big-picture`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-the-big-picture)
 
 ## Usage
 
@@ -44,7 +44,7 @@ Start Bootstrap has a public Slack channel which is a great place to ask questio
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/3-col-portfolio/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
 
 ## About
 
@@ -63,4 +63,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
